@@ -2,7 +2,7 @@
 Collection of design talks videos in galician and spanish
 
 ## Design
-
+:flag
 - **César Astudillo:** Transformación digital (Future Talks, español): https://vimeo.com/376204707
 - **Javier Cañada:** A enxeñaría da beleza  (FEED 2015, español): https://youtu.be/4JqqBqzOxpg
 - **Elena Urizar:** O poder de visualizar (FEED 2017, español): https://youtu.be/zceVUH9zWeM
@@ -16,6 +16,7 @@ Collection of design talks videos in galician and spanish
 - **Pancho Lapeña:** Charla sorpresa (FEED 2013, galego): https://youtu.be/j6jtcGj5jLY
 - **Javier Cañada:** Recursividad (Videoblog Tramontana, español): https://youtu.be/VqaAwffOONg
 - **Norberto Chavez:** La gestión del diseño, ¿Función del diseñador o del cliente?: https://youtu.be/FvCFQkTUBpw
+- **Alberto Barreiro:** Haciendo la revolución irresistible (Future Talks, español): https://vimeo.com/376201039
 
 ## Frontend
 

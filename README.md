@@ -17,6 +17,7 @@ Collection of design talks videos in galician and spanish
 - **Javier Cañada:** Recursividad (Videoblog Tramontana, español): https://youtu.be/VqaAwffOONg
 - **Norberto Chavez:** La gestión del diseño, ¿Función del diseñador o del cliente?: https://youtu.be/FvCFQkTUBpw
 - **Alberto Barreiro:** Haciendo la revolución irresistible (Future Talks, español): https://vimeo.com/376201039
+- **Stef Silva:** Abriendo el imaginario de lo posible (Future Talks, español): https://vimeo.com/376205960
 
 ## Frontend
 

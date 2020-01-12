@@ -17,6 +17,7 @@ Collection of design talks videos in galician and spanish
 - **Norberto Chavez:** La gestión del diseño, ¿Función del diseñador o del cliente?: https://youtu.be/FvCFQkTUBpw
 - **Óscar Otero:** Os tres pes do deseño web (FEED 2015, galego): https://youtu.be/qZEqS2QSfrc
 - **Pancho Lapeña:** Charla sorpresa (FEED 2013, galego): https://youtu.be/j6jtcGj5jLY
+- **Puño:** (Madinspain 2011, español): https://youtu.be/CCuVIUrjsss
 - **Stef Silva:** Abriendo el imaginario de lo posible (Future Talks, español): https://vimeo.com/376205960
 
 ## Frontend

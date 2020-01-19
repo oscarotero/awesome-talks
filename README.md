@@ -15,8 +15,9 @@ Collection of design talks videos in galician and spanish
 - **Marta Verde:** Converxencia de disciplinas creativas mediante tecnoloxía (FEED 2015, galego): https://youtu.be/GfD1DelTApM
 - **Miguel Sabel:** Deseño e negocio hoxe (FEED 2015, galego): https://youtu.be/Zn9gtLBmH_A
 - **Norberto Chavez:** La gestión del diseño, ¿Función del diseñador o del cliente?: https://youtu.be/FvCFQkTUBpw
-- **Óscar Otero:** Os tres pes do deseño web (FEED 2015, galego): https://youtu.be/qZEqS2QSfrc
+- **Óscar Otero:** Os tres pés do deseño web (FEED 2015, galego): https://youtu.be/qZEqS2QSfrc
 - **Pancho Lapeña:** Charla sorpresa (FEED 2013, galego): https://youtu.be/j6jtcGj5jLY
+- **Pepe Barro:** Os tres pés para un trísquele. A identidade básica da empresa Zeltia (FEED 2015, galego): https://youtu.be/DcPNsM87z1U
 - **Puño:** (Madinspain 2011, español): https://youtu.be/CCuVIUrjsss
 - **Stef Silva:** Abriendo el imaginario de lo posible (Future Talks, español): https://vimeo.com/376205960
 

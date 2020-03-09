@@ -12,6 +12,7 @@ Collection of design talks videos in galician and spanish
 - **Javier Cañada:** A enxeñaría da beleza  (FEED 2015, español): https://youtu.be/4JqqBqzOxpg
 - **Javier Cañada:** Recursividad (Videoblog Tramontana, español): https://youtu.be/VqaAwffOONg
 - **Joana Correia:** Fonts no futuro: variábeis ou non? (FEED 2017, español): https://youtu.be/XzlXsdj9J3A
+- **María Ramos:** Un FEET no FEED (FEED 2019, galego): https://youtu.be/OrGbKDJJD88
 - **Marta Verde:** Converxencia de disciplinas creativas mediante tecnoloxía (FEED 2015, galego): https://youtu.be/GfD1DelTApM
 - **Miguel Sabel:** Deseño e negocio hoxe (FEED 2015, galego): https://youtu.be/Zn9gtLBmH_A
 - **Norberto Chavez:** La gestión del diseño, ¿Función del diseñador o del cliente?: https://youtu.be/FvCFQkTUBpw
@@ -24,6 +25,7 @@ Collection of design talks videos in galician and spanish
 ## Frontend
 
 - **Adrià Fontcuberta:** ¡Hay que poner internet a dieta! (T3chFest 2019, español): https://youtu.be/jNI8rZ4l-5Q
+- **Elena Ramírez:** Tipografía para frontends (Front Fest, 2020, español): https://youtu.be/s7FEziUDXyA
 - **Javi Julián Olmos:** Accesible, que no es poco (T3chFest 2019, español): https://youtu.be/0ELlXb37gTQ
 - **Jon Rojí:** Asistentes para crear un mundo web adaptado (T3chFest 2019, español): https://youtu.be/1PByml4Y918
 - **Víctor Rodríguez:** Patrones diseño inclusivos (DrupalCamp 2017, español): https://youtu.be/B2vbQ57Tf-c

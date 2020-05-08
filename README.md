@@ -5,6 +5,7 @@ Collection of design talks videos in galician and spanish
 
 - **Alberto Barreiro:** Haciendo la revolución irresistible (Future Talks, español): https://vimeo.com/376201039
 - **Álvaro Valiño:** Infografía, ferramenta de coñecemento (FEED 2015, galego): https://youtu.be/4BzhPKZCDQ8
+- **Anxo López:** Unha viaxe na procura de valor (FEED 2019, galego): https://youtu.be/t69OHt1k_44
 - **Carmen Lanza:** A través do espello (FEED 2019, español): https://youtu.be/OlziyCrnRjQ
 - **César Astudillo:** Transformación digital (Future Talks, español): https://vimeo.com/376204707
 - **Cesar Ávila:** Algunhas estratexias sobre a forma do libro (FEED 2013, español): https://youtu.be/WXkv67v0m2g

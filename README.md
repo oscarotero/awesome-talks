@@ -35,3 +35,4 @@ Collection of design talks videos in galician and spanish
 ## Misc
 
 - **Irene M Morgado:** Developers y demás parientes (T3chFest 2019, español): https://youtu.be/EcZoR1N6Cz0
+- **César Astudillo:** ¿Se puede uno salir de la secta de Silicon Valley? (Open Biko 2022, español): https://www.youtube.com/watch?v=zcaY7HQREj8

@@ -24,6 +24,7 @@ Collection of design talks videos in galician and spanish
 - **Puño:** (Madinspain 2011, español): https://youtu.be/CCuVIUrjsss
 - **Stef Silva:** Abriendo el imaginario de lo posible (Future Talks, español): https://vimeo.com/376205960
 - **César Astudillo:** Al diablo tus plantes; cuida tu postura (TEDx, español): https://www.youtube.com/watch?v=rLSAAILR5RM&t=8795s
+- **Glòria Langreo:** Internet y el bosque oscuro (Entrevista en Realworld, español): https://www.youtube.com/watch?v=fe9Q1UCk8zU
 
 ## Frontend
 
